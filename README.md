@@ -9,4 +9,4 @@
 * [리액트 프로젝트에 ESLint 와 Prettier 끼얹기](https://velog.io/@velopert/eslint-and-prettier-in-react)
 
 ### Docker 플러그인
-* ctrl + shift + X -> "vscode-docker" 키워드 검색
+* ctrl + shift + X -> "vscode-docker-syntax" 키워드 검색
