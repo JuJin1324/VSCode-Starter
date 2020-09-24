@@ -10,3 +10,8 @@
 
 ### Docker 플러그인
 * ctrl + shift + X -> "vscode-docker-syntax" 키워드 검색
+
+### HTTP Request 플러그인
+* 플러그인 명: REST Client
+* 저자: Huachao Mao
+* 설명: .http 파일로 ### 를 기준으로 Request 를 분리해서 여러개의 Request를 적고 테스트해볼 수 있다.
